@@ -1,0 +1,18 @@
+1
+Rogerio
+M
+21
+Rua Capitao Luiz Rufo 193
+
+2
+Tamires
+F
+32
+Rua Capita
+
+3
+Rogerio
+F
+21
+Rua Rua
+

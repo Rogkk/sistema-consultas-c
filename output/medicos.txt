@@ -1,0 +1,21 @@
+1
+Rogerio
+m
+21
+Rua capitao
+Cardio
+
+2
+Teste
+F
+34
+Rua Todas
+Cabe�as
+
+3
+Samuel
+M
+22
+Rua Dos Anjos
+Voar
+
