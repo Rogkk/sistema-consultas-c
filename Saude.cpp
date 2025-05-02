@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 #include <windows.h>
+#include <string.h>
 
 int menu();
 void cadastro_Paciente(struct Paciente *p, int total_pacientes);
